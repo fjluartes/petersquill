@@ -12,7 +12,7 @@ export default function Home() {
         Chat with your <span className="text-blue-600">documents</span> in
         seconds.
       </h1>
-      <p>Test</p>
+      <p className="mt-5 max-w-prose">Test</p>
     </MaxWidthWrapper>
   );
 }
